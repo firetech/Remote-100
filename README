@@ -4,5 +4,9 @@ accessory.
 
 Requires Android 2.2 (or higher) and a multi touch capable unit with Bluetooth.
 
+Parts of the file src/nu/firetech/android/remote100/backend/Car100.java were
+inspired by CarConnection.java, obtained from the BluetoothCar example Midlet
+found in the Sony Ericsson SDK for the Java ME platform, version 2.5.0.6.
+
 To compile, you'll need a separate Joystick project, available at
 https://github.com/firetech/AndroidJoystick
